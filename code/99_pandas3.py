@@ -16,7 +16,7 @@ Created on Tue Nov 10 19:12:34 2015
 
 import pandas as pd
 
-file_path = '/Users/reneehosogi/Documents/GitHub_Clones/GA-SEA-DAT1/data/'
+file_path = '/Users/reneehosogi/Documents/GitHub_Clones/ds-sea-05/data/'
 movie_url = file_path + 'u.item'
 movie_cols = ['movie_id', 'title']
 movies = pd.read_table(movie_url, sep='|', header=None, names=movie_cols, usecols=[0, 1])
@@ -129,7 +129,7 @@ import pandas as pd
 # read in the data from '2015_trip_data.csv' file into a dataframe names 'file_path' and examine the contents.
 # name the file trip_data
 
-file_path = '/Users/reneehosogi/Documents/GA-SEA-DAT1-master/data/pronto_cycle_share/'
+file_path = '/Users/reneehosogi/Documents/ds-sea-05/data/pronto_cycle_share/'
 trip_data_url = file_path + '2015_trip_data.csv'
 trip_data = pd.read_table(trip_data_url, sep=',', header=0)
 trip_data.head()

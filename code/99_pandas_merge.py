@@ -121,7 +121,7 @@ In particular we want the dockcount column from 2015_station_data.csv to be adde
 # read in the data from '2015_trip_data.csv' file into a dataframe names 'file_path' and examine the contents.
 # name the file trip_data
 
-file_path = '/Users/jim_byers/Documents/GA/GA_Data_Science_course/SEA-DAT1/data/pronto_cycle_share/'
+file_path = '/Users/jim_byers/Documents/GA/GA_Data_Science_course/ds-sea-05/data/pronto_cycle_share/'
 trip_data_url = file_path + '2015_trip_data.csv'
 trip_data = pd.read_table(trip_data_url, sep=',', header=0)
 trip_data.head()

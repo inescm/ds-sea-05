@@ -24,7 +24,7 @@ How to view HTML code:
 '''
 
 # read the HTML code from a web page and save as a string
-with open('example.html', 'rU') as f:
+with open('../data/example.html', 'rU') as f:
     html = f.read()
 
 # convert HTML into a structured Soup object

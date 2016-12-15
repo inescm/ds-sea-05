@@ -11,7 +11,7 @@ plt.rcParams['font.size'] = 14
 
 
 # read in the drinks data
-file_path_drinks = '/Users/reneehosogi/Documents/GitHub_Clones/GA-SEA-DAT1/data/'
+file_path_drinks = '/Users/reneehosogi/Documents/GitHub_Clones/ds-sea-05/data/'
 drink_cols = ['country', 'beer', 'spirit', 'wine', 'liters', 'continent']
 url = file_path_drinks + 'drinks.csv'
 drinks = pd.read_csv(url, header=0, names=drink_cols, na_filter=False)
@@ -102,7 +102,7 @@ drinks.groupby('continent').mean().drop('liters', axis=1).plot(kind='bar', stack
 ###
 
 ## read in two files into separate dataframes
-file_path_pronto = '/Users/jim_byers/Documents/GA/GA_Data_Science_course/SEA-DAT1/data/pronto_cycle_share/'
+file_path_pronto = '/Users/jim_byers/Documents/GA/ds-sea-05/data/pronto_cycle_share/'
 
 trip_data_url = file_path_pronto + '2015_trip_data.csv'
 trip_data = pd.read_table(trip_data_url, sep=',', header=0)
@@ -191,7 +191,7 @@ drinks.drop('liters', axis=1).plot(kind='box')
 # ## Line Plot: show the trend of a numerical variable over time
 
 # read in the ufo data
-file_path_ufo = '/Users/jim_byers/Documents/GA/GA_Data_Science_course/SEA-DAT1/data/'
+file_path_ufo = '/Users/jim_byers/Documents/GA/GA_Data_Science_course/ds-sea-05/data/'
 url = file_path_ufo + 'ufo.csv'
 ufo = pd.read_csv(url)
 ufo['Time'] = pd.to_datetime(ufo.Time)
