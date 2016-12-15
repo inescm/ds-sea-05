@@ -4,7 +4,7 @@ You will be assigned to review the project drafts of two of your peers, and will
 
 Expectations:
 * Read everything they wrote!
-* If they provided their data, review it and try to understand it.
+  * If they provided their data, review it and try to understand it.
 * Read their code and try to understand their thought process.
 * If their code can be run, try running it.
 * Spend at least one hour reviewing their project (including the time it takes to write the feedback).
