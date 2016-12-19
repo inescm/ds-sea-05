@@ -39,8 +39,10 @@ r.headers
 # decode the JSON response body into a dictionary
 resp_json = r.json()
 
+type(resp_json)
+
 # extracting the year from the dictionary
-r.json()['Year']
+resp_json['Year']
 
 # what happens if the movie name is not recognized?
 r = requests.get('http://www.omdbapi.com/?t=blahblahblah&r=json&type=movie')
