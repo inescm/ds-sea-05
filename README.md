@@ -316,7 +316,7 @@ Name | Description
 * Due 1/4: Complete this [homework assignment](homework/06_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv)
 
 **KNN Resources:**
-* [(notebook)](notebooks/07_human_learning_iris.ipynb) An example of the steps one would go through using "human learning" to come up with a rule to classify new iris observations based on the Iris data set.  Contains a refresher on many Pandas techniques such as groupby and visulaization.
+* [(notebook)](notebooks/07_human_learning_iris.ipynb) An example of the steps one would go through using "human learning" to come up with a rule to classify new iris observations based on the Iris data set.  Contains a refresher on many Pandas techniques such as groupby and visualization.
 * For a recap of the key points about KNN and scikit-learn, watch [Getting started in scikit-learn with the famous iris dataset](https://www.youtube.com/watch?v=hd1W4CyPX58) (15 minutes) and [Training a machine learning model with scikit-learn](https://www.youtube.com/watch?v=RlQuVL6-qe8) (20 minutes).
 * KNN supports [distance metrics](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.DistanceMetric.html) other than Euclidean distance, such as [Mahalanobis distance](http://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance), which [takes the scale of the data into account](http://blogs.sas.com/content/iml/2012/02/15/what-is-mahalanobis-distance.html).
 * [A Detailed Introduction to KNN](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/) is a bit dense, but provides a more thorough introduction to KNN and its applications.
