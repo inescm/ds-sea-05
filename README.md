@@ -307,10 +307,11 @@ Name | Description
 * Create a k nearest neighbors (knn) predictive model
 * Describe the difference between a supervised and unsupervised model
 
-**Topics/Highlights:**
-* K-nearest neighbors (KNN) and scikit-learn ([notebook](notebooks/07_knn_sklearn.ipynb))
-* Exercise with NBA player data ([notebook](notebooks/07_nba_knn.ipynb), [data](/data/NBA_players_2015.csv), [data dictionary](/slides/07_nba_paper.pdf))
-* Bonus content not covered in this lesson: Machine learning types and terms [(slides)](slides/07_machine_learning.pdf) 
+**Topics/Highlights:***
+* Chipotle command line homework due [(code)](homework/04_command_line_chipotle.md)
+* K-nearest neighbors (KNN) and scikit-learn ([notebook](notebooks/06_knn_sklearn.ipynb))
+* Exercise with NBA player data ([notebook](notebooks/06_nba_knn.ipynb), [data](/data/NBA_players_2015.csv), [data dictionary](/slides/06_nba_paper.pdf))
+* Bonus content not covered in this lesson: Machine learning types and terms [(slides)](slides/06_machine_learning.pdf) 
 
 **Homework:**
 * Due 1/4: Complete this [homework assignment](homework/06_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv)
@@ -339,8 +340,7 @@ Name | Description
 * Evaluate the error of the model's fit to the training data
 
 **Topics/Highlights:**
-* Chipotle command line homework due [(code)](homework/04_command_line_chipotle.md)
-* Linear regression ([notebook](notebooks/06_linear_regression.ipynb))
+* Linear regression ([notebook](notebooks/07_linear_regression.ipynb))
     * [Capital Bikeshare dataset](data/bikeshare.csv) used in a Kaggle competition
     * [Data dictionary](https://www.kaggle.com/c/bike-sharing-demand/data)
 * Why we should examine data well before building a model: Anscombes_Quartet [(notebook)](notebooks/06_Anscombes_Quartet.ipynb)
