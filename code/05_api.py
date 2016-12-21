@@ -25,6 +25,7 @@ movies.head()
 # use requests library to interact with a URL
 import requests
 r = requests.get('http://www.omdbapi.com/?t=the shawshank redemption&r=json&type=movie')
+type(r)
 
 # check the status: 200 means success, 4xx means error
 r.status_code
@@ -47,6 +48,7 @@ resp_json['Year']
 # what happens if the movie name is not recognized?
 r = requests.get('http://www.omdbapi.com/?t=blahblahblah&r=json&type=movie')
 r.status_code
+r.json()
 
 
 # define a function to return the year
