@@ -42,7 +42,7 @@ Bonus content: [Intro to Neural Networks](#nn) |
 <!--
 (https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)
 -->
-####   [Homework and project submissions form] (https://docs.google.com/forms/d/1nF-2w3xoybfvAfLo-WFlXOW3lPGoQKxSYbSzkpxIBog/viewform)
+####   [Homework and project submissions form] (https://docs.google.com/forms/d/e/1FAIpQLSe3ENy_WFINs0h5KuzVmlw9aos5raqsaRGXD5-jnezuBB9WwQ/viewform)
 <!--
 (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)
 -->
