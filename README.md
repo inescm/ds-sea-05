@@ -503,7 +503,7 @@ Name | Description
     * DBSCAN: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), [visualization](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 
 **Homework:**
-* Prepare your initial project presentation for Thursday!!
+* Prepare your initial project presentation for Wednesday!!
 
 <!--
 * By Monday August 8, run the "DCSCAN Clustering" part of the [11_clustering.ipynb notebook](notebooks/11_clustering.ipynb) to understand how to use the DBSCAN estimator to build a clustering model.  -->
