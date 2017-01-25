@@ -547,7 +547,7 @@ Name | Description
 * NLP Exercise [(notebook)](notebooks/13_NLP_rotten_tomatoes_exercise.ipynb)
 
 **Homework:**
-* **Your draft paper is due on Thursday (11/3)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class
+* **Your draft paper is due on Thursday (2/1)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class
 
 **NLP Resources:**
 * If you want to learn a lot more NLP, check out the excellent [video lectures](https://class.coursera.org/nlp/lecture) and [slides](http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) from this [Coursera course](https://www.coursera.org/course/nlp) (which is no longer being offered).
