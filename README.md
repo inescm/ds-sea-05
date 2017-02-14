@@ -23,10 +23,11 @@ Monday | Wednesday
  | 
 **Data science in the real world**|
 1/30: [L13 Natural Language Processing](#nlp1) | 2/1: [L14 Dimensionality reduction](#reduction), **Draft Paper Due**
-2/6: [L15 Decision Trees](#decision) | 2/8: [L16 Ensembling, Bagging and Random Forests](#ensemble)
-2/13: [L17 Modeling with Time Series Data I](#time1), **Peer Review Due** | 2/15: [L18 Modeling with Time Series Data II](#time2)
-2/20: Holiday | 2/22: [L19 Where to go next + bonus topics](#19_topics)
-2/27: L20 **Final Project Presentations** | 
+2/6: SNOW DAY, no class | 2/8 [L15 Decision Trees](#decision) 
+2/13: [L16 Ensembling, Bagging and Random Forests](#ensemble) | 2/15: [L17 Modeling with Time Series Data I](#time1), **Peer Review Due**
+2/20: Holiday | 2/22 [L18 Modeling with Time Series Data II](#time2)
+2/27 [L19 Where to go next + bonus topics](#19_topics) | - 
+3/6: **Final Project Presentations** | 
  | 
  | 
  | 
