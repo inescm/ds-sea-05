@@ -645,7 +645,11 @@ Name | Description
 
 <a name="time1"></a>
 ### Class 17: Modeling with Time Series Data I
+**By the end of this lesson you will be able to:**
 
+* Determine Timeseries data metrics using Autocorrelation, rolling and expanding
+
+**Topics/Highlights**
 * Time series intro ([slides](https://docs.google.com/presentation/d/1pbAy7Pj-jZGFlcqkuiX8f-y7ozdiotBskkXaD5jiaKc/edit?usp=sharing))
 * Exercises [(notebook)](notebooks/17_time_series_I.ipynb)
 
