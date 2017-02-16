@@ -647,7 +647,7 @@ Name | Description
 ### Class 17: Modeling with Time Series Data I
 **By the end of this lesson you will be able to:**
 
-* Determine Timeseries data metrics using Autocorrelation, rolling and expanding
+* Determine Timeseries data metrics using autocorrelation, rolling and expanding
 
 **Topics/Highlights**
 * Time series intro ([slides](https://docs.google.com/presentation/d/1pbAy7Pj-jZGFlcqkuiX8f-y7ozdiotBskkXaD5jiaKc/edit?usp=sharing))
