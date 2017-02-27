@@ -692,13 +692,16 @@ Name | Description
 		* Machine learning with computer clusters: [Spark](http://spark.apache.org/) with [MLlib](http://spark.apache.org/mllib/)
 -->
 
-* Additional models and variants - Exercise
+* Additional models and variants - Exercise  
+* Data science software as a service (SaaS) engines - ex. [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
+* Machine learning with computer clusters: [Spark](http://spark.apache.org/) with [MLlib](http://spark.apache.org/mllib/)
 * Top takeaways and top surprises - Exercise [(form)](https://docs.google.com/forms/d/e/1FAIpQLSc837trmGghoDtx_wFsU6QJuESCp9D4TM3q9VuuSCWeo0WLQA/viewform)
 * Where to go from here data scientists!
 	* [Data science skills hierarchy](https://docs.google.com/spreadsheets/d/1RAcC44o3crC2ZeCmtrELibV1VyEB5ecnBHZKXXXZI6M)
 * Next steps in your journey
 	* [Exercise: your objectives and next steps](https://docs.google.com/spreadsheets/d/13z-eUjMtsSyO6B51iVzoEwmfpO-IhymoYDIVvgTious/edit?usp=sharing)
 
+<!--
 **Additional models and variants (in blue)**
 * Classifiers
 	* Naïve Bayes
@@ -727,7 +730,7 @@ Name | Description
 	* K-means
 	* DBSCAN
 	* [Hierarchical clustering](https://joyofdata.shinyapps.io/hclust-shiny/)
-
+-->
 
 -----
 
