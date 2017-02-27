@@ -672,6 +672,7 @@ Name | Description
 * Using a multi-user git repository - Exercise
 <!-- * More uses for command line and BASH -->
 * Review of what we have learned over the past 10 weeks
+
 <!--
 * Trends
 	* Data storage, Hadoop and MapReduce
